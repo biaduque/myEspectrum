@@ -1,12 +1,12 @@
 ### Olá! Meu nome é Beatriz Duque
 
-Tenho 20 anos e atualmente curso Ciência da computação na universidade Presbiteriana Mackenzie.
-
-### Estou fazendo esse projeto destinado inicialmente ao Swift Studant Challeng 2021.
-
 <p align="center">
   <img src="https://github.com/biaduque/myEspectrum/blob/main/Scenes/Identidade%20visual/cover.png">
 </p>
+
+Tenho 20 anos e atualmente curso Ciência da computação na universidade Presbiteriana Mackenzie.
+
+### Estou fazendo esse projeto destinado inicialmente ao Swift Studant Challeng 2021.
 
 Porém, é meu intuito que no final, consiga produzir um Playground que agregue não só a mim, mas às pessoas ao meu redor. 
 
