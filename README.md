@@ -12,10 +12,7 @@ Tenho 20 anos e atualmente curso Ciência da computação na universidade Presbi
 Fiz esse projeto destinado inicialmente ao Swift Studant Challeng 2021.
 
 Porém, é meu intuito que no final, consiga produzir um Playground que agregue não só a mim, mas às pessoas ao meu redor. 
-
-A documentação aqui presente irá acompanhar o meu processo de investigação e meu processo criativo em torno desse playground. 
-
-Decidi construir ela em inglês pois como faz parte de um projeto de realização pessoal, acima de tudo, construí-la em inglês me ajuda a evoluir nesse aspecto em minha vida acadêmica. 
+Ao conhecer um colega de turma que fazia parte do espectro autista, me senti inspirada em compartilhar com as pessoas as coisas que ele me ensinava e um pouco do que eu aprendi sobre o assunto.
 
 ### Sobre o Projeto
 
