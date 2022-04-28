@@ -19,4 +19,4 @@ Ao conhecer um colega de turma que fazia parte do espectro autista, me senti ins
 Inicialmente, tive a ideia de construir algo relacionado ao espectro autista, já que, possuo um amigo na faculdade que faz parte do Espectro. Esse meu amigo me ensina muitas coisas todos os dias e com o Playground, almejo passar alguns desses conhecimentos à diante. 
 
 My espectrum é um projeto que nasceu acima de tudo, em meu coração e estou muito ansiosa para compartilhar ele com as pessoas.
-
+Você pode conferir um pouco mais sobre o projeto em nossa [wiki!](https://github.com/biaduque/myEspectrum/wiki)
