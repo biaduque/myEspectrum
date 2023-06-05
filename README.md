@@ -20,3 +20,6 @@ Inicialmente, tive a ideia de construir algo relacionado ao espectro autista, j�
 
 My espectrum é um projeto que nasceu acima de tudo, em meu coração e estou muito ansiosa para compartilhar ele com as pessoas.
 Você pode conferir um pouco mais sobre o projeto em nossa [wiki!](https://github.com/biaduque/myEspectrum/wiki)
+
+### Assista a demo 
+O vídeo de demonstração do projeto está disponível através do [link](https://youtu.be/6-5BWbpfFJM)
